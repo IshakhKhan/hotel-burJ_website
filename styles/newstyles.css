@@ -21,7 +21,7 @@ h3 {
 }
 
 
-/* index.html CSS starts */
+/* ----------------------------------------index.html CSS starts-----------------------------------------*/
 
 /* logo-bar (menu-bar) (part-1) */
 
@@ -193,7 +193,7 @@ h3 {
     
 }
 
-/* about.html CSS starts */
+/*-----------------------------------about.html CSS starts------------------------------------------*/
 
 /* logo (menu-bar) (part-1) */
 
@@ -272,7 +272,7 @@ h3 {
     border-radius: 50%;
 }
 
-/* about hotel-hotel (part-3) */
+/* about hotel-reviews (part-3) */
 
 #bg-hotel {
     background: url(../images/aboutburj5.jpg) no-repeat center center/cover;
@@ -320,7 +320,7 @@ h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Contact-us page CSS starts */
+/*-------------------------------------Contact-us page CSS starts-------------------------------------------*/
 
 /* logo (menu-bar) (part-1) */
 
